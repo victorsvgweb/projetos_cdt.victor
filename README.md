@@ -1,2 +1,2 @@
-# metologia_cdt
-Repositório dedicado ao estudo e prática de Metodologias Ágeis. Este espaço visa compartilhar conhecimento sobre os frameworks mais populares (Scrum, Kanban, etc.), princípios de desenvolvimento ágil e ferramentas que promovem flexibilidade e eficiência. Sinta-se à vontade para explorar, aprender e contribuir!
+# Projetos_cdt
+Este repositório é dedicado ao estudo e à prática de desenvolvimento web utilizando APIs, Flask e Django. Nosso objetivo é compartilhar projetos e exemplos de código que demonstrem como construir aplicações web dinâmicas, integrar-se a serviços externos e criar soluções robustas com Python.
