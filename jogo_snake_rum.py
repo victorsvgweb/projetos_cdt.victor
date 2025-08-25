@@ -67,4 +67,4 @@ while rodando:
     desenhar()
     relogio.tick(15)
 
-pygame.quit()
+pygame.quit() 
